@@ -1,46 +1,46 @@
-°²×°expressµÄÊ±ºò£¬È«¾Ö°²×°Íê³ÉºóÅäÖÃ»·¾³±äÁ¿
+ï»¿å®‰è£…expressçš„æ—¶å€™ï¼Œå…¨å±€å®‰è£…å®Œæˆåé…ç½®ç¯å¢ƒå˜é‡
 NODE_PATH
 C:\Users\issuser\AppData\Roaming\npm
 
-pathÌí¼Ó£º%NODE_PATH%
+pathæ·»åŠ ï¼š%NODE_PATH%
 
-Íê³Éºó£ºexpress --version²é¿´°æ±¾
+å®Œæˆåï¼šexpress --versionæŸ¥çœ‹ç‰ˆæœ¬
 
-ÍøÉÏÓĞµÄ°æ±¾ÊÇ express -V²é¿´°æ±¾
+ç½‘ä¸Šæœ‰çš„ç‰ˆæœ¬æ˜¯ express -VæŸ¥çœ‹ç‰ˆæœ¬
 
 
-ÒÔÏÂÄÚÈİÊÇÔÚnode npm express¶¼°²×°ºÃµÄ»ù´¡ÉÏ£¬´´½¨expressÓ¦ÓÃ
+ä»¥ä¸‹å†…å®¹æ˜¯åœ¨node npm expresséƒ½å®‰è£…å¥½çš„åŸºç¡€ä¸Šï¼Œåˆ›å»ºexpressåº”ç”¨
 
 express helloworld
 
-ÇĞ»»µ½helloworldÄ¿Â¼°²×°ÒÀÀµ
+åˆ‡æ¢åˆ°helloworldç›®å½•å®‰è£…ä¾èµ–
 npm install
-È¥Ä¿Â¼ÕÒµ½app.jsÌí¼Ó¼àÌı
+å»ç›®å½•æ‰¾åˆ°app.jsæ·»åŠ ç›‘å¬
 app.listen(8000,function(){
 
 console.log("Server Start!");
 
 });
 
-npm start »òÕß node app ¿ªÊ¼ÔËĞĞ
+npm start æˆ–è€… node app å¼€å§‹è¿è¡Œ
 
-ä¯ÀÀÆ÷localhost:8000 ÅÜÆğÀ´
+æµè§ˆå™¨localhost:8000 è·‘èµ·æ¥
 
 
 
-ÒÔÏÂÄÚÈİÊÇÔÚnode npm express¶¼°²×°ºÃµÄ»ù´¡ÉÏ£¬´´½¨expressÓ¦ÓÃ
+ä»¥ä¸‹å†…å®¹æ˜¯åœ¨node npm expresséƒ½å®‰è£…å¥½çš„åŸºç¡€ä¸Šï¼Œåˆ›å»ºexpressåº”ç”¨
 
 express helloworld
 
-ÇĞ»»µ½helloworldÄ¿Â¼°²×°ÒÀÀµ
+åˆ‡æ¢åˆ°helloworldç›®å½•å®‰è£…ä¾èµ–
 npm install
-È¥Ä¿Â¼ÕÒµ½app.jsÌí¼Ó¼àÌı
+å»ç›®å½•æ‰¾åˆ°app.jsæ·»åŠ ç›‘å¬
 app.listen(8000,function(){
 
 console.log("Server Start!");
 
 });
 
-npm start »òÕß node app ¿ªÊ¼ÔËĞĞ
+npm start æˆ–è€… node app å¼€å§‹è¿è¡Œ
 
-ä¯ÀÀÆ÷localhost:8000 ÅÜÆğÀ´
+æµè§ˆå™¨localhost:8000 è·‘èµ·æ¥
